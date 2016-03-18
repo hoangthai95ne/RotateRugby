@@ -15,6 +15,7 @@
 		AB6CD8E51C9C159500913F28 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = AB6CD8E31C9C159500913F28 /* LaunchScreen.storyboard */; };
 		AB6CD8F01C9C159500913F28 /* RotateRugbyTests.m in Sources */ = {isa = PBXBuildFile; fileRef = AB6CD8EF1C9C159500913F28 /* RotateRugbyTests.m */; };
 		AB6CD8FB1C9C159500913F28 /* RotateRugbyUITests.m in Sources */ = {isa = PBXBuildFile; fileRef = AB6CD8FA1C9C159500913F28 /* RotateRugbyUITests.m */; };
+		AB6CD9091C9C15A700913F28 /* rugby.png in Resources */ = {isa = PBXBuildFile; fileRef = AB6CD9081C9C15A700913F28 /* rugby.png */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -51,6 +52,7 @@
 		AB6CD8F61C9C159500913F28 /* RotateRugbyUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = RotateRugbyUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		AB6CD8FA1C9C159500913F28 /* RotateRugbyUITests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = RotateRugbyUITests.m; sourceTree = "<group>"; };
 		AB6CD8FC1C9C159500913F28 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		AB6CD9081C9C15A700913F28 /* rugby.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = rugby.png; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -106,6 +108,7 @@
 				AB6CD8DB1C9C159500913F28 /* ViewController.h */,
 				AB6CD8DC1C9C159500913F28 /* ViewController.m */,
 				AB6CD8DE1C9C159500913F28 /* Main.storyboard */,
+				AB6CD9081C9C15A700913F28 /* rugby.png */,
 				AB6CD8E11C9C159500913F28 /* Assets.xcassets */,
 				AB6CD8E31C9C159500913F28 /* LaunchScreen.storyboard */,
 				AB6CD8E61C9C159500913F28 /* Info.plist */,
@@ -247,6 +250,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				AB6CD8E51C9C159500913F28 /* LaunchScreen.storyboard in Resources */,
+				AB6CD9091C9C15A700913F28 /* rugby.png in Resources */,
 				AB6CD8E21C9C159500913F28 /* Assets.xcassets in Resources */,
 				AB6CD8E01C9C159500913F28 /* Main.storyboard in Resources */,
 			);
